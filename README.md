@@ -1,7 +1,7 @@
 ### Hi, I'm nicolas and I develop programming and technology content! 👋
 
 - 🌱 I’m currently learning tools to better utilize data science and blockchain
-- 📫 How to reach me: nclsoliver+github@gmail.com
+- 📫 How to reach me: nclsoliver@gmail.com
 - 😄 Pronouns: he/him
 
 <div align="center">
